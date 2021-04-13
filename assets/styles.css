@@ -216,7 +216,12 @@ main > article {
         flex-direction: column;
         align-items: center;
     }
+
     .sponsors-logos > img {
+        width: 100px;
+    }
+
+    .sponsors-logos > a > img {
         width: 100px;
     }
 }
