@@ -95,6 +95,7 @@ main > article {
     justify-content: center;
     align-items: center;
     text-shadow: 0 0 0 rgba(0,0,0,0);
+    display: inline-block;
 }
 .hero-description > .actions > a {
     color: #000;
@@ -143,7 +144,7 @@ main > article {
     justify-content: space-evenly;
     align-items: center;
 }
-.sponsors-logos > img {
+.sponsors-logos > img, .sponsors-logos > a > img {
     width: 13vw;
 }
 
