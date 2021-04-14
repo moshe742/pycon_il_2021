@@ -63,6 +63,7 @@ main {
 }
 main > article {
     width: 80vw;
+    flex: 1;
 }
 
 .section {
